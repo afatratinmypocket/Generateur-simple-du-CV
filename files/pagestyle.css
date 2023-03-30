@@ -1,0 +1,571 @@
+body {
+	margin: 0 auto;
+	width: 1447px;
+}
+header {
+	float: left;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.startend {
+	background-color: black;
+	width: 100%;
+	height: 30px;
+}
+.setxt {
+	font-family: Trebuchet MS;
+	float: left;
+	color : white;
+	font-size: 12px;
+	width: 50%;
+	padding-top: 8px;
+	padding-left: 200px;
+}
+
+.hautsite{
+    background-image: url("images/site/buildings.jpg");
+    background-repeat: no-repeat;
+	float: left;
+	min-height: 160px;
+	width: 100%;
+}
+.logonamesite{
+	width: 205px;
+	float: left;
+	margin-left: 200px;
+	margin-top: 40px;
+}
+.logonamesite .txt {
+	color: white;
+	width: 80%;
+	font-size: 20px;
+	font-weight: bolder;
+	margin-left: 5px;
+	float: left;
+}
+
+.logo {
+	float: left;
+	width: 30px;
+}
+
+.defsite{
+	float: left;
+	margin-left: 200px;
+}
+
+.defsite .txt {
+	font-family: monospace;
+	font-size: 17px;
+	color: white;
+	float: left;
+	margin-left: 35px;
+	margin-top: 10px;
+	width: 500px;
+}
+.defsite .txt span{
+	font-weight: bold;
+}
+.defsite .buttonsec {	
+	float: right;
+	margin-top: 10px;
+	margin-left: 280px;
+}
+
+.btn{
+	color: #fff;
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	text-align: center;
+	background: transparent;
+	font-size: 13px;
+	border: 2px solid #fff;
+	cursor: pointer;
+	float: left;
+	width: 260px;
+	padding: 3px;
+
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+.btn:hover{
+  color: #000;
+  background-color: white;
+}
+.elements1 .btn {
+	width: 200px;
+}
+.subdown {
+	float: left;
+	height: 50px;
+}
+.colorsT {
+	float: left;
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	text-align: left;
+	background-color: black;
+	color: white;
+	border: 3px solid #fff;
+	width: 180px;
+	font-size: 20px;
+	border-radius: 20px;
+	height: 24px;
+	padding: 10px;
+}
+.colorsS {
+	float: left;
+	margin-left: 30px;
+}
+#couleur{
+	float: right;
+	margin-left: 20px;
+	width: 20px;
+	height: 20px;
+	border: 1px solid white;
+}
+
+input[type="color"] {
+   -webkit-appearance: none;
+    border: 0;
+    border-radius: 50%;
+    padding: 0;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+}
+input[type="color"]::-webkit-color-swatch-wrapper {
+    padding: 0;
+}
+input[type="color"]::-webkit-color-swatch {
+    border: none;
+}
+
+.subdown .btn {
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	text-align: center;
+	background-color: black;
+	color: white;
+	border: 3px solid #fff;
+	height: 50px;
+	font-size: 20px;
+	border-radius: 20px;
+}
+#textsub {
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	color: black;
+	font-size: 20px;
+	margin-top: 12px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.subdown .btn:hover {
+	background: transparent;
+	border: 3px solid #000;
+	color: black;
+	font-size: 20px;
+}
+
+section{
+	float: left;
+	width: 100%;
+}
+.part{
+	width: 100%;
+	float: left;
+}
+#formulaires .part{
+	border-top: 2px white solid;
+}
+#formulaires .btn {
+	width: 200px;
+}
+
+.titre{
+	color: black;
+	margin-left: 35%;
+	margin-top: 10px;
+	font-family: Trebuchet MS;
+	font-weight: bolder;
+	font-size: 34px;
+	float: left;
+}
+#formulaires .titre{
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 33%;
+}
+#cvcomplet .titre{
+	margin-left: 41%;
+}
+
+.titre .logo {
+	margin-top: 3px;
+	margin-right: 5px;
+}
+.elemnts1 {
+	float: left;
+	height: 310px;
+	margin-top: 30px;
+	margin-left: 280px;
+	padding: 4px 4px;
+}
+#formulaires .elemnts1{
+	width: 1210px;
+	height: 100%;
+	background: black;
+	padding: 0px 0px;
+	margin-top: 0px;
+	margin-left: 0px;	
+}
+
+.elemnts1 .ele1 img {
+	float: left;
+	width:220px;
+	height: 300px; 
+	pointer-events: none;
+}
+.elemnts1 .ele1 {
+	width: 220px;
+	height: 300px;
+	border: 2px solid #000;
+	margin-right: 10px;
+	float: left;
+}
+.ele1img {
+	background-color: white;
+	background-image: url("images/site/left.jpg");
+	background-repeat: no-repeat;
+	background-size: 330px;
+	border-right: 2px solid white;
+	width: 19%;
+	height: 100%;
+	float: left;
+}
+
+.elemnts2 {
+	width: 50%;
+	margin-top: 30px;
+	margin-left: 360px;
+	float: left;
+}
+
+.elemnts2 .ele2 {
+	width: 750px;
+	height: 80px;
+	border: 2px solid #000;
+	margin-top: 10px;
+	float: left;
+}
+.ele2titre {
+	font-family: Trebuchet MS;
+	color: white;
+	margin-left: 40px;
+	margin-top: 20px;		
+	font-weight: bolder;
+	font-size: 20px;
+	float: left;
+	width: 900px;
+}
+.ele2tap{
+	float: left;
+}			
+.ele2 .logo {
+	width: 70px;
+	height: 70px;
+	padding: 4px 4px;
+	float: left;
+	margin-left: 10px;
+}
+
+.ele2 .descritit {
+	width: 60%;
+	float: left;
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	font-size: 28px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.ele2 .descri {
+
+	float: left;
+	font-family: Trebuchet MS;
+	font-size: 16px;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+.ele2tap .part1, .sousform5 .part1 {
+	float: left;	
+	background-color: white;
+	font-family: Trebuchet MS;
+	color: black;
+	font-weight: bolder;
+	font-size: 18px;	
+	text-align: center;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border: 2px solid white;
+	cursor: pointer;
+	width: 190px;
+	position: relative;
+	top: 50%;
+
+}
+.ele2tap .part2{
+	font-family: Trebuchet MS;
+	text-align: center;
+	float: left;
+	width: 400px;
+	color: white;
+	border: 1px solid white;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	font-size: 18px;
+	background-color: black;
+}
+*:focus{
+	outline:none;
+}
+
+.downrezone {
+	margin-top: 60px;
+	margin-left: 480px;
+	float: left;
+}
+
+input[type=number]::-webkit-inner-spin-button {
+		opacity: 1;
+}	
+.sousform1{
+	width: 900px;
+	margin-top: 30px;
+	margin-left: 150px;
+	float: left;
+	border: 2px solid #fff;
+	background: linear-gradient(130deg,white 10px,rgba(166, 166, 166, 0.4),black);
+}
+.sousform2{
+	margin-top: 20px;
+	margin-left: 50px;
+	width: 150px;
+	float: left;
+}
+.sousform3{
+	width: 600px;
+	margin-top: 40px;
+	margin-left: 40px;
+	float: left;
+}
+.sousform4{
+	width: 600px;
+	margin-top: 40px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	float: left;
+}
+.sousform5{
+	width: 800px;
+	margin-top: 40px;
+	margin-left: 50px;
+	margin-bottom: 40px;
+	float: left;
+}
+.sousformele1 {
+	width: 500px;
+	margin-top: 40px;
+	margin-left: 60px;	
+	float: left;		
+}
+.sousformele2 {
+	width: 240px;
+	margin-top: 60px;
+	margin-left: 40px;
+	float: left;		
+}			
+.sousform1 .profilpic{
+	background-image: url("images/site/defpic.png");
+	background-size: 150px 150px;
+	width: 150px;
+	height: 150px;
+	border: 2px solid #fff;
+	border-radius: 100%;
+	float: left;
+
+	margin-top: 90px;
+}
+.profilpic img{
+	width: 150px;
+	height: 150px;	
+	border-radius: 100%;			
+}
+.profilpicup{
+	margin-top: 15px;
+	float: left;
+	width: 100%;
+}
+.profilpicup label{
+	background-color: white;
+	font-family: Trebuchet MS;
+	color: black;
+	font-weight: bolder;
+	font-size: 18px;	
+	text-align: center;
+	border-radius: 20px;
+	border: 2px solid white;
+	cursor: pointer;
+	width: 100px;
+	float: left;
+	margin-left: 22px;
+}
+textarea {
+	resize: none;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.elemnts3 {
+	float: left;
+	width: 780px;
+	margin-top: 30px;
+	margin-left: 210px;
+}
+.elemnts3 .ele2tap {
+	width: 230px;
+	margin-left: 280px;
+}
+
+.continfo {
+	margin-top: 30px;
+	width: 100%;
+	float: left;
+}
+.continfoparts {
+	width: 49%;
+	float: left;
+}
+.ftitre{
+	float: left;
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	color: white;
+	font-size: 44px;
+	text-align: center;
+	width: 330px;
+	height: 50px;
+
+	margin-left: 60px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.fzone{
+	float: left;
+	width: 600px;
+	height: 250px;
+	margin-top: 10px;
+	font-family: Trebuchet MS;
+	font-size: 20px;
+	overflow:hidden;
+	overflow-wrap: break-word;
+}
+.ftext{
+	float: right;
+	text-align: left;
+	width: 120px;
+	height: 20px;
+
+	margin-left: 20px;
+	margin-right: 20px;
+
+	font-family: Trebuchet MS;
+	font-weight: bold;
+}
+.fdesc{
+	float: left;
+	width: 100%;
+	height: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	color: grey;
+	text-align: left;
+	overflow:hidden;
+}
+.profpic{	
+	width: 220px;
+	height: 220px;
+	border-radius: 100%;
+}
+.profpic img{	
+	width: 220px;
+	height: 220px;	
+	border-radius: 100%;			
+}
+footer{
+	margin-top: 100px;
+	float: left;
+	width: 100%;
+}
+#devl {
+	font-family: Trebuchet MS;
+	color: white;
+	float: right;
+	font-size: 12px;
+	padding-top: 8px;
+	width: 90px;
+}
+#devl:hover {
+	color: grey;
+	cursor: default;
+}
+
+#cvdwnld {
+	float: left;
+	margin: 0 auto;
+	width: 1225px;
+	padding-bottom: 75px;
+}
+#cvdwnld .ftitre{
+	margin-right: 120px;
+	width: 500px;
+}
+
+.cvaff #cvdwnld {
+	box-shadow: 5px 10px 8px 10px #888888;
+	margin-top: 30px;
+	margin-left: 10%;
+}
+@page {
+    size: auto landscape;
+    margin: 0;
+}
+
+.nomprenom {
+	max-width: 1100px;
+	height: 70px;
+	font-family: initial;
+	font-weight: bold;
+	text-align: center;
+	font-size: 60px;
+	color: black;
+	overflow:hidden;
+	margin-top: 100px;
+	margin-bottom: 110px;
+	padding-top: 3px;
+	padding-bottom: 4px;
+}
+@media print {
+    tr.vendorListHeading {
+        background-color: #1a4567 !important;
+        -webkit-print-color-adjust: exact; 
+    }
+}
+
+@media print {
+		body {-webkit-print-color-adjust: exact;}
+}
+
+.fzone span{
+	color: grey;
+}
