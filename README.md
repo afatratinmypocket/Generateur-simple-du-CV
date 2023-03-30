@@ -1,2 +1,2 @@
-# Generateur simple du CV
- 
+# Générateur simple du CV
+Entrain de preparer le README...
